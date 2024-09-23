@@ -1,5 +1,5 @@
-# repo-1
+# repo-uno
 primer repo creado en github
 
-##Descripcion
+## Descripcion
 Esto es una prueba para recordar el uso de github
